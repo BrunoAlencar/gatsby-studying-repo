@@ -1,5 +1,5 @@
 ---
-path: '/my-first-blog'
+path: '/starting-with-angular-9'
 date: '2020-01-02'
 title: 'My aaa adas'
 author: 'Emma Bostian'

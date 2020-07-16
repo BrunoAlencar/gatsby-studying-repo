@@ -1,5 +1,5 @@
 ---
-path: '/my-first-blog'
+path: '/react-how-to-create-simple-app'
 date: '2020-03-01'
 title: 'My zzzz Blog'
 author: 'Emma Bostian'
